@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Psicólogos | landing Pages para psicólogos',
+      title: 'Eliane Pimentel | Psicóloga Clinica',
       meta: [
         {
           name: 'description',
@@ -16,7 +16,7 @@ export default defineNuxtConfig({
         },
 
         // Open Graph
-        { property: 'og:title', content: 'Nome Psicólogo | Psicóloga Clínica' },
+        { property: 'og:title', content: 'Eliane Pimentel | Psicóloga Clínica' },
         {
           property: 'og:description',
           content: 'Psicoterapia com escuta ética e acolhedora. Online e presencial em São Paulo.'
