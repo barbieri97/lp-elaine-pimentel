@@ -19,7 +19,7 @@ const props = withDefaults(defineProps<Props>(), {
   <section class="py-16 px-6">
     <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-10 items-center">
       <NuxtImg
-        src="/images/psico.jpg"
+        src="/images/psico.png"
         class="rounded-xl shadow-lg"
         loading="lazy"
       />
