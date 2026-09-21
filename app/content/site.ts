@@ -5,8 +5,8 @@ export const siteInfo = {
   profession: 'Psicóloga Clínica',
   professionalRegistry: 'CRP 06/188803',
   city: 'São Paulo',
-  whatsapp: '5511976825062',
-  whatsappLabel: '(11) 97682-5062',
+  whatsapp: '5511970630060',
+  whatsappLabel: '(11) 97063-0060',
   email: 'psicologa.elianeperes@gmail.com',
   socials: [
     {
@@ -16,7 +16,7 @@ export const siteInfo = {
     },
     {
       icon: 'i-simple-icons-whatsapp',
-      link: 'https://wa.me/5511976825062',
+      link: 'https://wa.me/5511970630060',
       label: 'WhatsApp'
     },
     {
